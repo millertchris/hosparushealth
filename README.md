@@ -9,4 +9,4 @@ Portfolio: https://millertchris.github.io/hosparushealth/
 Live site: https://hosparushealth.org/
 
 ## Contributors
-* Jen Hail
+* Jen Hail - https://github.com/jenniferhail
